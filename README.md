@@ -19,3 +19,8 @@
 <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 <img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
 </div>
+
+### Meus principais projetos 👇
+<div style = "display: inline_block">
+<img align="center" alt="Néctar" src="[https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white](https://app.meunectar.com/img/logo-ultra-mind.png)">
+</div>
