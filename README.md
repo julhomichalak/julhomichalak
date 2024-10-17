@@ -23,9 +23,9 @@
 ### Meus principais projetos 👇
 <div align="start">
 
-  <h3>Meu Néctar</h3>
+  <h4>Meu Néctar</h4>
   <a href="https://meunectar.com">
-    <img src="https://app.meunectar.com/img/logo-ultra-mind.png" alt="Néctar" width="200" />
+    <img src="https://app.meunectar.com/img/logo-ultra-mind.png" alt="Néctar" width="100" />
   </a>
 
 </div>
