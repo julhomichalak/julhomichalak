@@ -21,5 +21,5 @@
 </div>
 
 ### Meus principais projetos 👇
-[![Néctar]([https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://app.meunectar.com/img/logo-ultra-mind.png))](meunectar.com)
+[![Néctar]([https://app.meunectar.com/img/logo-ultra-mind.png](meunectar.com))](meunectar.com)
 
