@@ -21,6 +21,6 @@
 </div>
 
 ### Meus principais projetos 👇
-[![Néctar](https://app.meunectar.com/img/logo-ultra-mind.png)](https://meunectar.com)
-
-
+<a href="https://meunectar.com">
+  <img src="https://app.meunectar.com/img/logo-ultra-mind.png" alt="Néctar" width="200" />
+</a>
