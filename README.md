@@ -25,7 +25,7 @@
 
   <h4>Meu Néctar</h4>
   <a href="https://meunectar.com">
-    <img src="https://app.meunectar.com/img/logo-ultra-mind.png" alt="Néctar" width="100" />
+    <img target="_blanck" src="https://app.meunectar.com/img/logo-ultra-mind.png" alt="Néctar" width="100" />
   </a>
 
 </div>
